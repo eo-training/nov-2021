@@ -123,7 +123,6 @@ These classes were made for past elections and may contain outdated information 
 
 
 
-
 <div style="display: flex;justify-content: center;">
     <button onclick="hideDIV()" style="
     background: transparent;
