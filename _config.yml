@@ -1,0 +1,68 @@
+# Site Build Settings
+
+# Jekyll-paginate-v2 configuration
+#  pagination:
+#   enabled: true
+#   per_page: 5
+#   permalink: '/page/:num/'
+#   title: ':title - page :num of :max'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
+
+# jekyll-paginate configuration
+# paginate:            5
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+# permalink:           none
+# plugins:             [jekyll-sitemap, jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           'Election Officer Training'
+description:	       ''
+author:              'Office of Elections'
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
+
+# add collections
+
+collections_dir: collections
+
+collections:
+  eo-basics:
+    output: true
+    title: "Election Officer Basics"
+    permalink: /eo-basics/:path
+    url: /eo-basics
+  chief-basics:
+    output: true
+    title: "Chief and Assistant Chief Basics"
+    permalink: /chief-basics/:path
+    url: /chief-basics
+  hs-page:
+    output: true
+    title: "High School Page Training"
+    permalink: /hs-page/:path
+    url: /hs-page
+  cap-mailer-check-in:
+    output: true
+    title: "CAP Mailer Check-In Training"
+    permalink: /cap-mailer-check-in/:path
+    url: /cap-mailer-check-in
+
+
+# Permalinks
+permalink:           /:short_year/:month/:title/
+# baseurl: /
+
+# Fix date/time generation
+timezone: America/New_York
+
+### Current domain: training.electionofficers.com
+
+gems:
+  - jekyll-redirect-from
