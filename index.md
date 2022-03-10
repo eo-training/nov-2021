@@ -21,7 +21,7 @@ title: Home
 <div class="cards">
 
   <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/eo-basics">
+    <a href="{{ site.url }}{{ site.baseurl }}/eo-basics">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/new-eos.png')"></div>
       </div>
@@ -34,7 +34,7 @@ title: Home
 
 
   <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/opu">
+    <a href="{{ site.url }}{{ site.baseurl }}/opu">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/2021-11-opu.png')"></div>
       </div>
@@ -47,7 +47,7 @@ title: Home
 
 
   <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/hs-page">
+    <a href="{{ site.url }}{{ site.baseurl }}/hs-page">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/high-school-pages-small.jpg')"></div>
       </div>
@@ -60,7 +60,7 @@ title: Home
 
 
   <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/chief-basics">
+    <a href="{{ site.url }}{{ site.baseurl }}/chief-basics">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/what-ifs.png')"></div>
       </div>
@@ -73,7 +73,7 @@ title: Home
 
 
   <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/chiefs-briefing/">
+    <a href="{{ site.url }}{{ site.baseurl }}/chiefs-briefing/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/chiefs-briefing-small.jpg')"></div>
       </div>
@@ -93,10 +93,10 @@ title: Home
 ## Supplemental materials for the November 2021 election
 
 * **Helpful information**
-  - Link: [Frequently asked questions from OPU classes]({{site.url}}{{site.baseurl}}/nov-2021/faqs/)
-  - Link: [Poll Pad videos]({{site.url}}{{site.baseurl}}/nov-2021/videos/)
+  - Link: [Frequently asked questions from OPU classes]({{site.url}}{{site.baseurl}}/faqs/)
+  - Link: [Poll Pad videos]({{site.url}}{{site.baseurl}}/videos/)
 * **Chiefs Notebook**
-  - Link: [Full Chiefs Notebook]({{site.url}}/{{site.baseurl}}/nov-2021/chiefs-notebook/)
+  - Link: [Full Chiefs Notebook]({{site.url}}/{{site.baseurl}}/chiefs-notebook/)
   - PDF: [What-Ifs from Chiefs Notebook]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-what-ifs.pdf)
   - PDF: [Election Officer Function Descriptions from Chiefs Notebook]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-function-descriptions.pdf)
 * **One-page Equipment Opening/Closing Guides**
