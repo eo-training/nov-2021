@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Chiefs Briefing for the November 2021 General Election"
-permalink: /nov-2021/chiefs-briefing/
+permalink: /chiefs-briefing/
 ---
 
 Chiefs and Assistant Chiefs are required to watch a Chiefs Briefing each election covering election-specific updates.
