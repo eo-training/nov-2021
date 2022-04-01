@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mileage Reimbursements for the November 2021 General and Special Elections"
-permalink: /nov-2021/mileage-reimbursements
+permalink: /mileage-reimbursements
 ---
 
 In each election, some officers are eligible for mileage reimbursement:
