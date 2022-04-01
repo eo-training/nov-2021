@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Chiefs Notebook for the November 2021 General Election"
-permalink: /nov-2021/chiefs-notebook/
+permalink: /chiefs-notebook/
 ---
 
 The Chiefs Notebook is a manual used by Chiefs and Assistant Chiefs on election day.
