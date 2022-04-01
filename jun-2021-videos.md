@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Poll Pad videos for the June 2021 Democratic Party Primary Election"
-permalink: /jun-2021/videos
+permalink: /videos
 ---
 
 As you learned in the New & Experienced Election Officer training class, the Poll Pads have been updated with new software. Everything may look a little different, but most buttons and functions are generally in the same place!
